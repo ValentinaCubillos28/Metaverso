@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\HEIDY\\Aprendiendo Unyti\\Metaverso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9DE34A-DD3B-2665-A561-9007E150C38C}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\heidy\\aprendiendo unyti\\metaverso\\assets\\scripts\\menu\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9DE34A-DD3B-2665-A561-9007E150C38C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 346,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuInicial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\HEIDY\\Aprendiendo Unyti\\Metaverso\\Assets\\Scripts\\Menu\\MenuInicial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuInicial.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\HEIDY\\Aprendiendo Unyti\\Metaverso\\Assets\\Scripts\\Menu\\MenuInicial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MenuInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:17:10.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
